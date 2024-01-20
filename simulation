@@ -1,0 +1,8 @@
+console.log("Hey there ${Name}");
+var loga = readline("YO")
+loga 
+
+var graa = prompt("Yo")
+const pro = require("prompt-sync")({sigint:true});
+let work = prompt("it will definitel")
+prompt

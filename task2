@@ -1,0 +1,31 @@
+function Productlist(){
+    var Entry_Greeting = "Hello And Welcome,Below are a list of Our Products"
+
+    var FemaleBags = "Female Bags"
+    var UnisexBags = "Unisex Bags"
+    var MaleBags = "Male Bags"
+    var FemaleShoes = "Female Shoes"
+    var UnisexShoes = "Unisex Shoes"
+    var FemaleJewelries = "Female Jewelires"
+    var Male_Jewelries = "Male Jewelries"
+
+
+
+
+}
+
+function ProductID(){
+    var Products = {
+        "Female_Bags" : {
+             Louis_Vuitton : 1,
+             Chanel : 2,
+             Coach : 3,
+             Gucci : 4,
+             Fendi : 5
+             
+
+
+        }
+        }
+    }
+}
